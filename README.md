@@ -1,4 +1,4 @@
-Dragon Hunter RPG Game
+DRAGON HUNTER RPG Game
 Welcome to Dragon Hunter, an exciting web-based RPG game where you embark on a journey to defeat menacing monsters and ultimately confront the mighty dragon! This game is built using basic HTML, CSS, and JavaScript.
 
 Gameplay
